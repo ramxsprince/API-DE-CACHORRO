@@ -1,0 +1,21 @@
+A API escolhida, é uma API gratuita que fornece imagens aleatórias de cachorros. 
+É ideal para projetos simples, testes com fetch em JavaScript.
+
+LINK "https://dog.ceo/api/breeds/image/random.json"
+
+Quando você faz uma requisição GET para https://dog.ceo/api/breeds/image/random, 
+ela retorna uma resposta no formato JSON como este:
+{
+  "message": "https://images.dog.ceo/breeds/hound-afghan/n02088094_1003.jpg",
+  "status": "success"
+}
+
+message: URL da imagem do cachorro.
+
+status: Indica se a requisição foi bem-sucedida ou não.
+
+
+COMO USAR
+1. Copie o código HTML, CSS e JS e cole no seu editor de código.
+2. Abra o arquivo HTML no seu navegador.
+3. Clique no botão "Ver Cachorro" para ver uma nova imagem de cachorro.
