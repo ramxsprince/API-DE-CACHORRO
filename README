@@ -1,7 +1,7 @@
 A API escolhida, é uma API gratuita que fornece imagens aleatórias de cachorros. 
 É ideal para projetos simples, testes com fetch em JavaScript.
 
-LINK "https://dog.ceo/api/breeds/image/random.json"
+LINK "https://dog.ceo/api/breeds/image/random"
 
 Quando você faz uma requisição GET para https://dog.ceo/api/breeds/image/random, 
 ela retorna uma resposta no formato JSON como este:
